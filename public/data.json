@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "/sunglass.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Straw Sun Hat",
+    "brand": "BreezeWear",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 15,
+    "description": "Wide-brim straw hat offering shade and style for sunny days.",
+    "image": "/hat.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 7,
+    "name": "Canvas Beach Tote",
+    "brand": "CarryAll",
+    "price": 25,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Spacious canvas tote bag for carrying beach essentials.",
+    "image": "/tote.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Beach Flip-Flops",
+    "brand": "WaveWalk",
+    "price": 12,
+    "rating": 4.5,
+    "stock": 25,
+    "description": "Comfortable and lightweight flip-flops ideal for sandy beaches.",
+    "image": "/flip-flop.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 8,
+    "name": "Quick-Dry Water Shoes",
+    "brand": "AquaStep",
+    "price": 28,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Protective water shoes designed for swimming and rocky shores.",
+    "image": "/watershoes.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 3,
+    "name": "Portable Cooler Bag",
+    "brand": "CoolMate",
+    "price": 30,
+    "rating": 4.8,
+    "stock": 8,
+    "description": "Insulated cooler bag to keep drinks and snacks chilled during summer trips.",
+    "image": "/handbag.jpg",
+    "category": "Outdoor"
+  },
+  {
+    "id": 9,
+    "name": "Foldable Beach Chair",
+    "brand": "RelaxSit",
+    "price": 35,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Lightweight foldable chair for comfortable beach lounging.",
+    "image": "/chair.jpg",
+    "category": "Outdoor"
+  },
+  {
+    "id": 5,
+    "name": "Waterproof Bluetooth Speaker",
+    "brand": "SoundSplash",
+    "price": 45,
+    "rating": 4.9,
+    "stock": 12,
+    "description": "Portable waterproof speaker for pool parties and beach fun.",
+    "image": "/speaker.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "Power Bank",
+    "brand": "SunCharge",
+    "price": 40,
+    "rating": 4.6,
+    "stock": 9,
+    "description": "Eco-friendly  power bank to charge devices outdoors.",
+    "image": "/powerbank.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Aloe Vera Gel",
+    "brand": "NatureCare",
+    "price": 10,
+    "rating": 4.8,
+    "stock": 20,
+    "description": "Soothing aloe vera gel to refresh and hydrate skin after sun exposure.",
+    "image": "/aloevera.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 11,
+    "name": "SPF 50 Sunscreen ",
+    "brand": "SkinShield",
+    "price": 18,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "Broad-spectrum sunscreen lotion to protect skin from harmful UV rays.",
+    "image": "/sunscreen.jpg",
+    "category": "Skincare"
+  }
+]
