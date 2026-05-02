@@ -4,11 +4,13 @@
 import { authClient } from "@/lib/auth-client";
 import {Button, Description, FieldError, Form, Input, Label, TextField} from "@heroui/react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 import React from 'react';
 
 
 const RegisterPage = () => {
+  const router=useRouter()
      const onSubmit = async(e) => {
     e.preventDefault();
 
@@ -28,6 +30,9 @@ const RegisterPage = () => {
     console.log({data,error})
  if(error){
   alert("Resitration Failed")
+ }
+ if(data){
+  router.push('/')
  }
   };
     return (

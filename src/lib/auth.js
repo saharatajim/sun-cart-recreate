@@ -1,8 +1,13 @@
+import dotenv from "dotenv";
 import { betterAuth } from "better-auth";
 import { MongoClient } from "mongodb";
 import { mongodbAdapter } from "better-auth/adapters/mongodb";
 
-const client = new MongoClient('mongodb+srv://sun-cart:iu77K6Lrgszkmabn@cluster0.1xoqubi.mongodb.net/?appName=Cluster0');
+dotenv.config();
+
+const client = new MongoClient(process.env.MONGODB_URI);
+
+
 
 await client.connect()
 
